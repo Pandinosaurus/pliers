@@ -33,10 +33,9 @@ modalities.
 Documentation
 -------------
 
-The official pliers documentation is comprehensive, and contains a
-`quickstart <http://psychoinformaticslab.github.io/pliers/quickstart.html>`__,
-`user guide <http://psychoinformaticslab.github.io/pliers/>`__ and `API
-Reference <http://psychoinformaticslab.github.io/pliers/reference.html>`__.
+The official pliers documentation on ReadTheDocs is comprehensive, and contains a
+`quickstart <https://pliers.readthedocs.io/en/latest/quickstart.html>`__,
+`API Reference <https://pliers.readthedocs.io/en/latest/reference.html>`__, and more.
 
 Pliers overview (with application to naturalistic fMRI)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -66,8 +65,8 @@ If you use pliers in your work, please cite both the pliers and the following pa
 .. |PyPI version fury.io| image:: https://badge.fury.io/py/pliers.svg
    :target: https://pypi.python.org/pypi/pliers/
 .. |pytest| image:: https://github.com/PsychoinformaticsLab/pliers/actions/workflows/python-package.yml/badge.svg
-.. |Coverage Status| image:: https://coveralls.io/repos/github/psychoinformaticslab/pliers/badge.svg?branch=master
-   :target: https://coveralls.io/github/psychoinformaticslab/pliers?branch=master
+.. |Coverage Status| image:: https://codecov.io/gh/PsychoinformaticsLab/pliers/branch/master/graph/badge.svg?token=ShZRZ9aqZv 
+   :target: https://codecov.io/gh/PsychoinformaticsLab/pliers
 .. |DOI:10.1145/3097983.3098075| image:: https://zenodo.org/badge/DOI/10.1145/3097983.3098075.svg
    :target: https://doi.org/10.1145/3097983.3098075
 .. |docs| image:: https://readthedocs.org/projects/pliers/badge/?version=latest
